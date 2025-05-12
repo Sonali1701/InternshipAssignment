@@ -1,0 +1,7 @@
+python-dotenv
+selenium
+chromedriver-autoinstaller
+pandas
+matplotlib
+seaborn
+requests
